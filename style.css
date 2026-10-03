@@ -106,3 +106,14 @@ footer a{color:#fff}
 .btn.quizlink{background:#f5b301;color:var(--navy);box-shadow:0 4px 0 #b88600}
 @media (max-width:620px){.qz-opts{grid-template-columns:1fr;max-width:270px;gap:10px;margin-left:auto;margin-right:auto}.qz-opt img{aspect-ratio:16/9}.qz-opt span{padding:6px 10px 8px;font-size:15px}.qz-q{font-size:20px;margin:.3em auto}.qz-stars span{font-size:22px}}
 .quiz,.qz-play,.qz-done,.qz-cert{scroll-margin-top:84px}
+
+/* why this skill matters + collapsible lyrics */
+.why{border-left:6px solid var(--accent,#f59e0b);background:#fffbeb}
+.why h2{margin-top:0}
+.why p{font-size:1.05rem;line-height:1.6;margin:0}
+.lyrics details summary{cursor:pointer;list-style:none}
+.lyrics details summary::-webkit-details-marker{display:none}
+.lyrics details summary h2{display:inline-block;margin:0}
+.lyrics details summary h2::after{content:" ▸";font-size:.8em;opacity:.6}
+.lyrics details[open] summary h2::after{content:" ▾"}
+.lyrics details[open] .lyr{margin-top:16px}
