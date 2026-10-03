@@ -117,3 +117,9 @@ footer a{color:#fff}
 .lyrics details summary h2::after{content:" ▸";font-size:.8em;opacity:.6}
 .lyrics details[open] summary h2::after{content:" ▾"}
 .lyrics details[open] .lyr{margin-top:16px}
+
+/* teachers page + nav link */
+nav .teach{font-weight:700;margin-right:10px;text-decoration:none;color:inherit;white-space:nowrap}
+.skilllist{list-style:none;padding:0;columns:2;column-gap:30px}
+.skilllist li{break-inside:avoid;margin:0 0 10px}
+@media (max-width:640px){.skilllist{columns:1} nav .teach{display:none}}
