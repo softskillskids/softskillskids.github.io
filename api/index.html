@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Resource catalogue for apps and AI agents</title>
+<meta name="description" content="Public read-only JSON catalogue, without an account or API key. Released resources only.">
+<link rel="canonical" href="https://softskillskids.github.io/api/">
+<meta property="og:type" content="website"><meta property="og:title" content="Resource catalogue for apps and AI agents">
+<meta property="og:description" content="Public read-only JSON catalogue, without an account or API key. Released resources only."><meta property="og:url" content="https://softskillskids.github.io/api/">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#ec4899">
+<link rel="icon" href="/img/logo-64.png">
+<link rel="stylesheet" href="/fonts/fonts.css"><link rel="stylesheet" href="/style.css">
+
+</head>
+<body style="--accent:#ec4899">
+<header class="top"><div class="wrap">
+<a class="brand" href="/"><img src="/img/logo-128.png" alt="" width="48" height="48"><span>Soft Skills Kids</span></a>
+<nav><a class="teach" href="/teachers/">🍎 For teachers</a> <a class="lang" href="https://dexiotitesmetragoudi.github.io" hreflang="el">🇬🇷 Ελληνικά</a>
+<a class="btn yt" href="https://www.youtube.com/@SoftSkillsKids1?sub_confirmation=1" rel="noopener">▶ Subscribe on YouTube</a></nav>
+</div></header>
+<main>
+<section class="wrap box"><h1>Resource catalogue for apps and AI agents</h1><p>Public read-only JSON catalogue, without an account or API key. Released resources only.</p>
+<p><a href="/api/v1/resources.json">JSON: /api/v1/resources.json</a></p>
+<p>5 resources · schema_version 1.0 · languages: en / el</p>
+<h2>Usage</h2><pre>curl https://softskillskids.github.io/api/v1/resources.json</pre>
+<p>Read the resources array and filter locally by language, skill, age_range or download type.
+IDs are stable within each language catalogue. Links are absolute. Missing optional resources are null.
+lesson.duration_minutes describes the suggested activity, not the video length.
+updated_at is the latest included publication date, not the server response time.</p>
+<p>This is a static GET endpoint: query parameters do not perform server-side searches.
+Cache the catalogue and fetch it at most once per day unless you need a refresh.
+Browser cross-origin access depends on hosting headers; server-side clients can fetch the public URL.
+There are no write operations, API keys, child profiles or automatic agent registration.</p>
+<h2>Available fields</h2><p>id, language, title, skill, age_range, description, published_at,
+page_url, video_url, thumbnail_url, downloads, activity_prompt, discussion_prompts,
+lesson, quiz_url and certificate. Quiz and certificate links open the existing browser activity;
+they are not certificate-issuing API endpoints.</p>
+<h2>Responsible use</h2><p>Free for home and classroom use. No new permission for republication, modification, resale or model training is granted by this catalogue. Contact the publisher for uses not covered by the existing site terms.</p>
+<p>Keep source links and publisher attribution. Preview materials with an adult before use.
+These are suggested activities, not a clinically validated programme.
+Certificates are keepsakes, not qualifications. Creative production is AI-assisted.
+Do not send names, quiz answers or other child information to this endpoint.</p>
+<p><a href="https://dexiotitesmetragoudi.github.io/api/">Other language catalogue</a> ·
+<a href="mailto:softskillskids1@gmail.com">Contact the publisher</a></p></section>
+</main>
+<footer><div class="wrap"><p>Soft Skills Kids — Sing. Learn. Grow. Free songs and printables for children aged 3–8. No ads, no cookies, no tracking on this website.</p>
+<p><a href="https://www.youtube.com/@SoftSkillsKids1" rel="noopener">YouTube</a> · <a href="/blog/">Ideas for parents</a> · <a href="/teachers/">For teachers</a> · <a href="/press/">Press</a> · <a href="/api/">API / JSON</a> · <a href="https://dexiotitesmetragoudi.github.io">🇬🇷 Ελληνικά</a></p></div></footer>
+<script>
+document.querySelectorAll('.video[data-id]').forEach(function(v){v.addEventListener('click',function(){
+var f=document.createElement('iframe');f.src='https://www.youtube-nocookie.com/embed/'+v.dataset.id+'?autoplay=1&rel=0';
+f.allow='autoplay; encrypted-media; picture-in-picture; fullscreen';f.allowFullscreen=true;f.title=v.getAttribute('aria-label');
+v.innerHTML='';v.appendChild(f);v.classList.add('on');});});
+</script>
+</body>
+</html>

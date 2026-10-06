@@ -1,0 +1,336 @@
+{
+  "schema_version": "1.0",
+  "publisher": "Soft Skills Kids",
+  "site_url": "https://softskillskids.github.io",
+  "language": "en",
+  "count": 5,
+  "updated_at": "2026-10-03T14:00:09+00:00",
+  "usage": {
+    "cost": "free",
+    "stated_scope": "home_and_classroom_use",
+    "redistribution_license": null,
+    "note": "Free for home and classroom use. No new permission for republication, modification, resale or model training is granted by this catalogue. Contact the publisher for uses not covered by the existing site terms.",
+    "contact_email": "softskillskids1@gmail.com"
+  },
+  "safety": {
+    "adult_led": true,
+    "preview_before_use": true,
+    "ai_assisted_creative_production": true,
+    "clinically_validated_programme": false,
+    "accepts_child_personal_data": false
+  },
+  "resources": [
+    {
+      "id": "i-can-feel-what-you-feel",
+      "language": "en",
+      "title": "I Can Feel What You Feel",
+      "skill": "Empathy",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "description": "An empathy song for kids! 💛 Sing along with Max, Mia, Jay, Lily, Rosie and Buddy the puppy as they learn to notice when a friend needs them — and to look, listen and care. \"I Can Feel What You Feel\" is a sing-along empathy song for kids that teaches children to notice how others feel, ask \"Are you okay?\", listen without having to fix everything, and simply be there for a friend. With big karaoke lyrics on screen, it's perfect for preschool, kindergarten and early elementary kids (ages 3–8), at home or in the classroom.",
+      "published_at": "2026-10-03T14:00:09+00:00",
+      "page_url": "https://softskillskids.github.io/songs/i-can-feel-what-you-feel/",
+      "video_url": "https://www.youtube.com/watch?v=lVjbcTXxA-o",
+      "thumbnail_url": "https://softskillskids.github.io/songs/i-can-feel-what-you-feel/video.jpg",
+      "downloads": [
+        {
+          "type": "lyrics",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/i-can-feel-what-you-feel/lyrics.pdf"
+        },
+        {
+          "type": "activity_sheet",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/i-can-feel-what-you-feel/activity-sheet.pdf"
+        },
+        {
+          "type": "coloring_pages",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/i-can-feel-what-you-feel/coloring-pages.pdf"
+        }
+      ],
+      "activity_prompt": "Draw a friend who feels sad — and what you can do to help them feel better.",
+      "discussion_prompts": [
+        "How can you tell when a friend feels sad?",
+        "What can you say to a friend who is sitting alone?",
+        "When did someone make you feel better just by being with you?"
+      ],
+      "lesson": null,
+      "quiz_url": "https://softskillskids.github.io/songs/i-can-feel-what-you-feel/#quiz",
+      "certificate": {
+        "url": "https://softskillskids.github.io/songs/i-can-feel-what-you-feel/#quiz",
+        "creation": "local_browser",
+        "is_qualification": false
+      }
+    },
+    {
+      "id": "eyes-looking-ears-listening",
+      "language": "en",
+      "title": "Eyes Looking, Ears Listening",
+      "skill": "Listening",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "description": "A fun listening song for kids! 👂 Sing along with Max, Mia, Jay, Lily, Rosie and Buddy the puppy as they learn to be great listeners: eyes looking, ears listening, quiet mouth and open mind! \"Eyes Looking, Ears Listening\" is a catchy sing-along kids song about good listening skills — paying attention, waiting for your turn, not interrupting and asking kind questions. With big karaoke lyrics and easy actions to copy, it's perfect for preschool, kindergarten and early elementary kids (ages 3–8), for circle time at school or at home.",
+      "published_at": "2026-09-30T14:00:32+00:00",
+      "page_url": "https://softskillskids.github.io/songs/eyes-looking-ears-listening/",
+      "video_url": "https://www.youtube.com/watch?v=Nl9CgNG8e-M",
+      "thumbnail_url": "https://softskillskids.github.io/songs/eyes-looking-ears-listening/video.jpg",
+      "downloads": [
+        {
+          "type": "lyrics",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/eyes-looking-ears-listening/lyrics.pdf"
+        },
+        {
+          "type": "activity_sheet",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/eyes-looking-ears-listening/activity-sheet.pdf"
+        },
+        {
+          "type": "coloring_pages",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/eyes-looking-ears-listening/coloring-pages.pdf"
+        }
+      ],
+      "activity_prompt": "Draw someone you love telling you a story. What did they say?",
+      "discussion_prompts": [
+        "How do you show someone you are listening?",
+        "What can you say if you don't understand?",
+        "How do you feel when someone really listens to you?"
+      ],
+      "lesson": null,
+      "quiz_url": "https://softskillskids.github.io/songs/eyes-looking-ears-listening/#quiz",
+      "certificate": {
+        "url": "https://softskillskids.github.io/songs/eyes-looking-ears-listening/#quiz",
+        "creation": "local_browser",
+        "is_qualification": false
+      }
+    },
+    {
+      "id": "my-feelings-have-a-name",
+      "language": "en",
+      "title": "My Feelings Have a Name",
+      "skill": "Feelings",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "description": "A gentle feelings song for kids! 💛 Sing along with Max, Mia, Jay, Lily, Rosie and Buddy the puppy as they learn that every feeling has a name — happy, sad, angry, worried, excited and calm — and that all feelings are okay. \"My Feelings Have a Name\" is a sing-along emotions song for kids that helps children recognise, name and talk about their feelings, and calm down with a big breath. Each feeling has its own colour, so even little ones can spot it: happy yellow, sad blue, angry red, worried purple, excited orange and calm green. With big karaoke lyrics on screen, it's perfect for preschool, kindergarten and early elementary kids (ages 3–8), at home or in the classroom.",
+      "published_at": "2026-09-28T14:00:38+00:00",
+      "page_url": "https://softskillskids.github.io/songs/my-feelings-have-a-name/",
+      "video_url": "https://www.youtube.com/watch?v=xCpeGEGvBbg",
+      "thumbnail_url": "https://softskillskids.github.io/songs/my-feelings-have-a-name/video.jpg",
+      "downloads": [
+        {
+          "type": "lyrics",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/my-feelings-have-a-name/lyrics.pdf"
+        },
+        {
+          "type": "activity_sheet",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/my-feelings-have-a-name/activity-sheet.pdf"
+        },
+        {
+          "type": "coloring_pages",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/my-feelings-have-a-name/coloring-pages.pdf"
+        }
+      ],
+      "activity_prompt": "Draw your face today. How do you feel? Happy, sad, angry, worried, excited or calm?",
+      "discussion_prompts": [
+        "How do you feel today?",
+        "What makes you feel happy? What helps when you feel sad?",
+        "What can you do when you feel angry or worried?"
+      ],
+      "lesson": {
+        "url": "https://softskillskids.github.io/resources/feelings-activity-for-kids/",
+        "title": "Feelings Activity for Kids: Name It, Draw It, Talk",
+        "goal": "Practise naming feelings and recognising that people may feel differently in the same situation.",
+        "materials": "Paper and crayons.",
+        "duration_minutes": {
+          "min": 15,
+          "max": 20
+        },
+        "steps": [
+          {
+            "title": "Ask",
+            "text": "How might a character feel on their first day somewhere new? Accept different possible feelings."
+          },
+          {
+            "title": "Listen",
+            "text": "Play My Feelings Have a Name. Recall a few feeling words together afterwards."
+          },
+          {
+            "title": "Try",
+            "text": "Draw a feeling for an imaginary character, or point to an example. Children do not need to share personal experiences."
+          },
+          {
+            "title": "Reflect",
+            "text": "Ask: What might help this character? Explore asking a trusted adult, taking a pause or requesting company. No one action fixes every feeling."
+          }
+        ],
+        "adaptation": "Begin with two feeling words for younger children. Older children can suggest mixed feelings or words in their home language.",
+        "discussion_question": "Could two people feel differently about the same event?"
+      },
+      "quiz_url": "https://softskillskids.github.io/songs/my-feelings-have-a-name/#quiz",
+      "certificate": {
+        "url": "https://softskillskids.github.io/songs/my-feelings-have-a-name/#quiz",
+        "creation": "local_browser",
+        "is_qualification": false
+      }
+    },
+    {
+      "id": "kindness-makes-the-world-shine",
+      "language": "en",
+      "title": "Kindness Makes the World Shine",
+      "skill": "Kindness",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "description": "A happy kindness song for kids! 🌈 Sing along with Max, Mia, Jay, Lily, new friend Rosie and Buddy the puppy as every kind act brings colour back to a grey park — because kindness makes the world shine! \"Kindness Makes the World Shine\" is a fun sing-along kids song about being kind, including others, sharing, helping and caring. With big karaoke lyrics on screen, it's perfect for preschool, kindergarten and early elementary kids (ages 3–8), at home or in the classroom.",
+      "published_at": "2026-09-25T05:56:46+00:00",
+      "page_url": "https://softskillskids.github.io/songs/kindness-makes-the-world-shine/",
+      "video_url": "https://www.youtube.com/watch?v=YsljKEcGiBU",
+      "thumbnail_url": "https://softskillskids.github.io/songs/kindness-makes-the-world-shine/video.jpg",
+      "downloads": [
+        {
+          "type": "lyrics",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/kindness-makes-the-world-shine/lyrics.pdf"
+        },
+        {
+          "type": "activity_sheet",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/kindness-makes-the-world-shine/activity-sheet.pdf"
+        },
+        {
+          "type": "coloring_pages",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/kindness-makes-the-world-shine/coloring-pages.pdf"
+        }
+      ],
+      "activity_prompt": "Draw a kind thing you can do for someone today.",
+      "discussion_prompts": [
+        "What kind thing did you do today?",
+        "How can we help someone who feels lonely?",
+        "How do you feel when someone is kind to you?"
+      ],
+      "lesson": {
+        "url": "https://softskillskids.github.io/resources/kindness-activity-for-preschool/",
+        "title": "Kindness Activity for Preschool: Small Helpful Actions",
+        "goal": "Notice when someone might appreciate help and practise offering it.",
+        "materials": "Paper, crayons and an optional soft toy.",
+        "duration_minutes": {
+          "min": 15,
+          "max": 20
+        },
+        "steps": [
+          {
+            "title": "Ask",
+            "text": "What is one small thing someone did to help you? Children may pass."
+          },
+          {
+            "title": "Listen",
+            "text": "Play Kindness Makes the World Shine. Choose one helpful action to discuss."
+          },
+          {
+            "title": "Try",
+            "text": "Pretend a toy has dropped its crayons. Model: Would you like some help? Act out possible responses and respect a no."
+          },
+          {
+            "title": "Reflect",
+            "text": "Draw one kind action children could choose today. Do not require a public promise or rank children."
+          }
+        ],
+        "adaptation": "Offer gestures or picture choices for children learning English. Older children can create a pretend-play situation.",
+        "discussion_question": "How could you help someone feel included without making them join in?"
+      },
+      "quiz_url": "https://softskillskids.github.io/songs/kindness-makes-the-world-shine/#quiz",
+      "certificate": {
+        "url": "https://softskillskids.github.io/songs/kindness-makes-the-world-shine/#quiz",
+        "creation": "local_browser",
+        "is_qualification": false
+      }
+    },
+    {
+      "id": "we-can-do-it-together",
+      "language": "en",
+      "title": "We Can Do It Together",
+      "skill": "Teamwork",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "description": "A happy teamwork song for kids! 🤝 Sing along with Max, Mia, Jay, Lily and Buddy the puppy as they build a treehouse together — and learn that when we help each other, we can do anything! \"We Can Do It Together\" is a fun sing-along kids song about teamwork, sharing, helping friends and never giving up. With big karaoke lyrics on screen, it's perfect for preschool, kindergarten and early elementary kids (ages 3–8), at home or in the classroom.",
+      "published_at": "2026-09-24T09:04:14+00:00",
+      "page_url": "https://softskillskids.github.io/songs/we-can-do-it-together/",
+      "video_url": "https://www.youtube.com/watch?v=aoTdK4_fmDs",
+      "thumbnail_url": "https://softskillskids.github.io/songs/we-can-do-it-together/video.jpg",
+      "downloads": [
+        {
+          "type": "lyrics",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/we-can-do-it-together/lyrics.pdf"
+        },
+        {
+          "type": "activity_sheet",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/we-can-do-it-together/activity-sheet.pdf"
+        },
+        {
+          "type": "coloring_pages",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/we-can-do-it-together/coloring-pages.pdf"
+        }
+      ],
+      "activity_prompt": "Draw something you built or made together with a friend.",
+      "discussion_prompts": [
+        "When did you help a friend?",
+        "What could we build together?",
+        "What do you do when something doesn't work?"
+      ],
+      "lesson": {
+        "url": "https://softskillskids.github.io/resources/teamwork-activity-for-kids/",
+        "title": "Teamwork Activity for Kids: Sing, Build and Share",
+        "goal": "Practise sharing a task and asking a partner for help.",
+        "materials": "Paper cups or building blocks.",
+        "duration_minutes": {
+          "min": 15,
+          "max": 20
+        },
+        "steps": [
+          {
+            "title": "Ask",
+            "text": "What can two people make together that is harder to make alone? Children may answer, point or draw."
+          },
+          {
+            "title": "Listen",
+            "text": "Play We Can Do It Together and notice examples of helping."
+          },
+          {
+            "title": "Try",
+            "text": "In pairs, build a small tower. Alternate placing a cup or block. Model the phrase: Can you help me?"
+          },
+          {
+            "title": "Reflect",
+            "text": "Ask: What did your partner do that helped? Name a specific action rather than choosing a best team."
+          }
+        ],
+        "adaptation": "For younger children, model two turns. Older children can agree on a plan before building.",
+        "discussion_question": "What could you say if your partner has a different idea?"
+      },
+      "quiz_url": "https://softskillskids.github.io/songs/we-can-do-it-together/#quiz",
+      "certificate": {
+        "url": "https://softskillskids.github.io/songs/we-can-do-it-together/#quiz",
+        "creation": "local_browser",
+        "is_qualification": false
+      }
+    }
+  ]
+}
