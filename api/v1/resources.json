@@ -3,8 +3,8 @@
   "publisher": "Soft Skills Kids",
   "site_url": "https://softskillskids.github.io",
   "language": "en",
-  "count": 5,
-  "updated_at": "2026-10-03T14:00:09+00:00",
+  "count": 6,
+  "updated_at": "2026-10-08T14:00:00+00:00",
   "usage": {
     "cost": "free",
     "stated_scope": "home_and_classroom_use",
@@ -20,6 +20,51 @@
     "accepts_child_personal_data": false
   },
   "resources": [
+    {
+      "id": "try-again",
+      "language": "en",
+      "title": "Try Again!",
+      "skill": "Never give up",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "description": "A growth mindset song for kids! 💪 Sing along with Max, Mia, Jay, Lily, Rosie and Buddy the puppy as they learn that mistakes are okay — take a breath, make a plan and TRY AGAIN! \"Try Again!\" is a sing-along resilience song for kids about not giving up. When a block tower falls, a bike wobbles or a paper plane crashes, the kids learn to stay calm, think of a new way, ask for help and keep trying. With big karaoke lyrics on screen, it's perfect for preschool, kindergarten and early elementary kids (ages 3–8), at home or in the classroom.",
+      "published_at": "2026-10-08T14:00:00+00:00",
+      "page_url": "https://softskillskids.github.io/songs/try-again/",
+      "video_url": "https://www.youtube.com/watch?v=rc2BlGIj5jc",
+      "thumbnail_url": "https://softskillskids.github.io/songs/try-again/video.jpg",
+      "downloads": [
+        {
+          "type": "lyrics",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/try-again/lyrics.pdf"
+        },
+        {
+          "type": "activity_sheet",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/try-again/activity-sheet.pdf"
+        },
+        {
+          "type": "coloring_pages",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/try-again/coloring-pages.pdf"
+        }
+      ],
+      "activity_prompt": "Draw something that was hard for you — and you kept trying!",
+      "discussion_prompts": [
+        "What is something you couldn't do before, but can do now?",
+        "What can you do when something feels too hard?",
+        "Who can you ask for help?"
+      ],
+      "lesson": null,
+      "quiz_url": "https://softskillskids.github.io/songs/try-again/#quiz",
+      "certificate": {
+        "url": "https://softskillskids.github.io/songs/try-again/#quiz",
+        "creation": "local_browser",
+        "is_qualification": false
+      }
+    },
     {
       "id": "i-can-feel-what-you-feel",
       "language": "en",
