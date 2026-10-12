@@ -3,8 +3,8 @@
   "publisher": "Soft Skills Kids",
   "site_url": "https://softskillskids.github.io",
   "language": "en",
-  "count": 6,
-  "updated_at": "2026-10-08T14:00:00+00:00",
+  "count": 7,
+  "updated_at": "2026-10-11T14:00:00+00:00",
   "usage": {
     "cost": "free",
     "stated_scope": "home_and_classroom_use",
@@ -20,6 +20,51 @@
     "accepts_child_personal_data": false
   },
   "resources": [
+    {
+      "id": "i-can-solve-it",
+      "language": "en",
+      "title": "I Can Solve It!",
+      "skill": "Problem solving",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "description": "A problem solving song for kids! 🧩 Sing along with Max, Mia, Jay, Lily, Rosie and Buddy the puppy as they learn four simple steps for any tricky moment: STOP, LOOK, THINK and TRY! \"I Can Solve It!\" is a sing-along problem-solving song for kids. When a puzzle piece won't fit, a kite string gets tangled, a block bridge falls down or a paper plane won't fly, the kids stay calm, look closely, think of ideas and try another way. With big karaoke lyrics on screen, it's perfect for preschool, kindergarten and early elementary kids (ages 3–8), at home or in the classroom.",
+      "published_at": "2026-10-11T14:00:00+00:00",
+      "page_url": "https://softskillskids.github.io/songs/i-can-solve-it/",
+      "video_url": "https://www.youtube.com/watch?v=AlbZ8mR44Ow",
+      "thumbnail_url": "https://softskillskids.github.io/songs/i-can-solve-it/video.jpg",
+      "downloads": [
+        {
+          "type": "lyrics",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/i-can-solve-it/lyrics.pdf"
+        },
+        {
+          "type": "activity_sheet",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/i-can-solve-it/activity-sheet.pdf"
+        },
+        {
+          "type": "coloring_pages",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/i-can-solve-it/coloring-pages.pdf"
+        }
+      ],
+      "activity_prompt": "Draw a problem — and your clever idea to solve it!",
+      "discussion_prompts": [
+        "What was a tricky problem you solved this week?",
+        "What do you do first when something doesn't work?",
+        "Can you think of two different ways to fix it?"
+      ],
+      "lesson": null,
+      "quiz_url": "https://softskillskids.github.io/songs/i-can-solve-it/#quiz",
+      "certificate": {
+        "url": "https://softskillskids.github.io/songs/i-can-solve-it/#quiz",
+        "creation": "local_browser",
+        "is_qualification": false
+      }
+    },
     {
       "id": "try-again",
       "language": "en",
