@@ -140,7 +140,7 @@
     c.lineWidth = 6; c.strokeStyle = NAVY; c.beginPath(); c.arc(sx, sy, 100, 0, Math.PI * 2); c.stroke();
     c.fillStyle = GOLD; star(c, sx, sy - 30, 42, 18, 5); c.fill();
     c.fillStyle = NAVY; c.textAlign = 'center'; c.textBaseline = 'middle';
-    fit(c, caps(C.skill), '700 {s}px ' + CF, 34, 170); c.fillText(caps(C.skill), sx, sy + 38);
+    var seal = caps(C.skill.split(/[,&]/)[0]); fit(c, seal, '700 {s}px ' + CF, 34, 170); c.fillText(seal, sx, sy + 38, 170);
 
     // right: texts
     var cx = 1230, maxW = 860;

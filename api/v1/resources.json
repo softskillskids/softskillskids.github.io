@@ -3,8 +3,8 @@
   "publisher": "Soft Skills Kids",
   "site_url": "https://softskillskids.github.io",
   "language": "en",
-  "count": 8,
-  "updated_at": "2026-10-11T14:00:04+00:00",
+  "count": 9,
+  "updated_at": "2026-10-14T14:00:02+00:00",
   "usage": {
     "cost": "free",
     "stated_scope": "home_and_classroom_use",
@@ -20,6 +20,51 @@
     "accepts_child_personal_data": false
   },
   "resources": [
+    {
+      "id": "i-believe-in-me",
+      "language": "en",
+      "title": "I Believe in Me",
+      "skill": "Confidence",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "description": "A confidence song for kids! 💪 Sing along with Max, Mia, Jay, Lily, Rosie and Buddy the puppy as they learn that being brave doesn't mean never feeling scared — it means taking a breath, standing tall and giving it a try! \"I Believe in Me\" is a sing-along self-confidence song for kids. Rosie is nervous to share her idea in front of the class, Mia is afraid to join a new game — but step by step they find their courage, make mistakes, learn and grow. With big karaoke lyrics on screen, it's perfect for preschool, kindergarten and early elementary kids (ages 3–8), at home or in the classroom.",
+      "published_at": "2026-10-14T14:00:02+00:00",
+      "page_url": "https://softskillskids.github.io/songs/i-believe-in-me/",
+      "video_url": "https://www.youtube.com/watch?v=qNWxGulMUJ4",
+      "thumbnail_url": "https://softskillskids.github.io/songs/i-believe-in-me/video.jpg",
+      "downloads": [
+        {
+          "type": "lyrics",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/i-believe-in-me/lyrics.pdf"
+        },
+        {
+          "type": "activity_sheet",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/i-believe-in-me/activity-sheet.pdf"
+        },
+        {
+          "type": "coloring_pages",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/i-believe-in-me/coloring-pages.pdf"
+        }
+      ],
+      "activity_prompt": "Draw yourself doing something you are proud of!",
+      "discussion_prompts": [
+        "When did you feel a little nervous but tried anyway?",
+        "What helps you feel brave?",
+        "What is something new you'd like to try this week?"
+      ],
+      "lesson": null,
+      "quiz_url": "https://softskillskids.github.io/songs/i-believe-in-me/#quiz",
+      "certificate": {
+        "url": "https://softskillskids.github.io/songs/i-believe-in-me/#quiz",
+        "creation": "local_browser",
+        "is_qualification": false
+      }
+    },
     {
       "id": "i-can-solve-it",
       "language": "en",
