@@ -3,8 +3,8 @@
   "publisher": "Soft Skills Kids",
   "site_url": "https://softskillskids.github.io",
   "language": "en",
-  "count": 9,
-  "updated_at": "2026-10-14T14:00:02+00:00",
+  "count": 16,
+  "updated_at": "2026-11-04T15:00:29+00:00",
   "usage": {
     "cost": "free",
     "stated_scope": "home_and_classroom_use",
@@ -20,6 +20,319 @@
     "accepts_child_personal_data": false
   },
   "resources": [
+    {
+      "id": "ask-for-help",
+      "language": "en",
+      "title": "It's Okay to Ask for Help",
+      "skill": "Asking for help",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "description": "A song about asking for help! 🙋 Sing along with Max, Mia, Jay, Lily, Rosie and Buddy the puppy as they learn to try first, take a breath, use their words — and ask for help when they're stuck. \"It's Okay to Ask for Help!\" is a sing-along song for kids about asking for help. Lily's shoelace keeps coming loose, Jay can't move a big box on his own, and Rosie doesn't understand her schoolwork — so they ask a friend, a grown-up or the teacher, and learn something new. With karaoke lyrics on screen, it's perfect for preschool, kindergarten and early elementary kids (ages 3–8), at home or in the classroom.",
+      "published_at": "2026-11-04T15:00:29+00:00",
+      "page_url": "https://softskillskids.github.io/songs/ask-for-help/",
+      "video_url": "https://www.youtube.com/watch?v=ERwl1wRjx0c",
+      "thumbnail_url": "https://softskillskids.github.io/songs/ask-for-help/video.jpg",
+      "downloads": [
+        {
+          "type": "lyrics",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/ask-for-help/lyrics.pdf"
+        },
+        {
+          "type": "activity_sheet",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/ask-for-help/activity-sheet.pdf"
+        },
+        {
+          "type": "coloring_pages",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/ask-for-help/coloring-pages.pdf"
+        }
+      ],
+      "activity_prompt": "Draw a time someone helped you learn something new!",
+      "discussion_prompts": [
+        "When did someone help you learn something new?",
+        "Who can you ask when something is tricky?"
+      ],
+      "lesson": null,
+      "quiz_url": "https://softskillskids.github.io/songs/ask-for-help/#quiz",
+      "certificate": {
+        "url": "https://softskillskids.github.io/songs/ask-for-help/#quiz",
+        "creation": "local_browser",
+        "is_qualification": false
+      }
+    },
+    {
+      "id": "stop-think-choose",
+      "language": "en",
+      "title": "Stop, Think, Choose!",
+      "skill": "Self-Control",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "description": "A self-control song for kids! ✋ Sing along with Max, Mia, Jay, Lily, Rosie and Buddy the puppy as they learn to STOP, take a breath, THINK and CHOOSE what to do — even when feelings are big. \"Stop, Think, Choose!\" is a sing-along self-control song for kids. Buddy knocks down Max's block tower, Mia wants a cookie right now, and someone cuts in front of Jay at the slide — and each time they pause, breathe and pick a good choice. With karaoke lyrics on screen, it's perfect for preschool, kindergarten and early elementary kids (ages 3–8), at home or in the classroom.",
+      "published_at": "2026-11-01T15:00:06+00:00",
+      "page_url": "https://softskillskids.github.io/songs/stop-think-choose/",
+      "video_url": "https://www.youtube.com/watch?v=ehSxJBaww-w",
+      "thumbnail_url": "https://softskillskids.github.io/songs/stop-think-choose/video.jpg",
+      "downloads": [
+        {
+          "type": "lyrics",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/stop-think-choose/lyrics.pdf"
+        },
+        {
+          "type": "activity_sheet",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/stop-think-choose/activity-sheet.pdf"
+        },
+        {
+          "type": "coloring_pages",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/stop-think-choose/coloring-pages.pdf"
+        }
+      ],
+      "activity_prompt": "Draw a time you stopped, took a breath and made a good choice!",
+      "discussion_prompts": [
+        "When did you stop and make a good choice?",
+        "What can you do instead of shouting or grabbing?"
+      ],
+      "lesson": null,
+      "quiz_url": "https://softskillskids.github.io/songs/stop-think-choose/#quiz",
+      "certificate": {
+        "url": "https://softskillskids.github.io/songs/stop-think-choose/#quiz",
+        "creation": "local_browser",
+        "is_qualification": false
+      }
+    },
+    {
+      "id": "good-things",
+      "language": "en",
+      "title": "Good Things Take Time",
+      "skill": "Patience",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "description": "A patience song for kids! 🌱 Sing along with Max, Mia, Jay, Lily, Rosie and Buddy the puppy as they learn that good things take time: waiting for your turn, taking a breath, and going step by step. \"Good Things Take Time\" is a sing-along patience song for kids. Max waits his turn at the slide, Lily plants a seed with Grandma Nell and waters it every morning until a yellow flower blooms, Rosie finishes a big puzzle piece by piece — and everyone waits for the cookies to cool. With karaoke lyrics on screen, it's perfect for preschool, kindergarten and early elementary kids (ages 3–8), at home or in the classroom.",
+      "published_at": "2026-10-29T15:00:20+00:00",
+      "page_url": "https://softskillskids.github.io/songs/good-things/",
+      "video_url": "https://www.youtube.com/watch?v=n4VjZWhVGS4",
+      "thumbnail_url": "https://softskillskids.github.io/songs/good-things/video.jpg",
+      "downloads": [
+        {
+          "type": "lyrics",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/good-things/lyrics.pdf"
+        },
+        {
+          "type": "activity_sheet",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/good-things/activity-sheet.pdf"
+        },
+        {
+          "type": "coloring_pages",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/good-things/coloring-pages.pdf"
+        }
+      ],
+      "activity_prompt": "Draw something you waited for — and how you felt when it finally came!",
+      "discussion_prompts": [
+        "What is something you had to wait for?",
+        "What can you do while you are waiting?",
+        "What helps when waiting feels hard?"
+      ],
+      "lesson": null,
+      "quiz_url": "https://softskillskids.github.io/songs/good-things/#quiz",
+      "certificate": {
+        "url": "https://softskillskids.github.io/songs/good-things/#quiz",
+        "creation": "local_browser",
+        "is_qualification": false
+      }
+    },
+    {
+      "id": "respect",
+      "language": "en",
+      "title": "Respect Everyone!",
+      "skill": "Respect",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "description": "A respect song for kids! 💚 Sing along with Max, Mia, Jay, Lily, Rosie and Buddy the puppy as they learn what respect looks like every day: listening when someone talks, waiting your turn, asking before you take, and giving others space. \"Respect Everyone!\" is a sing-along respect song for kids. Max waits for his turn to share his idea, Lily asks before borrowing Rosie's shiny pen — and says \"okay\" when Rosie says \"not right now\" — and Buddy learns to give Jay a little space. With a big R-E-S-P-E-C-T chorus and karaoke lyrics on screen, it's perfect for preschool, kindergarten and early elementary kids (ages 3–8), at home or in the classroom.",
+      "published_at": "2026-10-26T15:00:33+00:00",
+      "page_url": "https://softskillskids.github.io/songs/respect/",
+      "video_url": "https://www.youtube.com/watch?v=JXZwCG5PFHQ",
+      "thumbnail_url": "https://softskillskids.github.io/songs/respect/video.jpg",
+      "downloads": [
+        {
+          "type": "lyrics",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/respect/lyrics.pdf"
+        },
+        {
+          "type": "activity_sheet",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/respect/activity-sheet.pdf"
+        },
+        {
+          "type": "coloring_pages",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/respect/coloring-pages.pdf"
+        }
+      ],
+      "activity_prompt": "Draw a time you listened, waited your turn or asked before taking something.",
+      "discussion_prompts": [
+        "How do you show someone you are listening?",
+        "What can you say if a friend says \"no\"?",
+        "What does it mean to give someone space?"
+      ],
+      "lesson": null,
+      "quiz_url": "https://softskillskids.github.io/songs/respect/#quiz",
+      "certificate": {
+        "url": "https://softskillskids.github.io/songs/respect/#quiz",
+        "creation": "local_browser",
+        "is_qualification": false
+      }
+    },
+    {
+      "id": "friends",
+      "language": "en",
+      "title": "That's What Friends Are For!",
+      "skill": "Friendship",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "description": "A friendship song for kids! 💛 Sing along with Max, Mia, Jay, Lily, Rosie and Buddy the puppy as they learn what good friends do: share, help, listen, cheer each other on — and take turns! \"That's What Friends Are For!\" is a sing-along friendship song for kids. Max makes room for Rosie, Jay shares his crayons with Lily, everyone runs to help when Rosie slips, and when Max and Jay both want to choose the game, Mia says \"Let's take turns!\" With big karaoke lyrics on screen, it's perfect for preschool, kindergarten and early elementary kids (ages 3–8), at home or in the classroom.",
+      "published_at": "2026-10-23T14:00:03+00:00",
+      "page_url": "https://softskillskids.github.io/songs/friends/",
+      "video_url": "https://www.youtube.com/watch?v=l8iAytMC6TQ",
+      "thumbnail_url": "https://softskillskids.github.io/songs/friends/video.jpg",
+      "downloads": [
+        {
+          "type": "lyrics",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/friends/lyrics.pdf"
+        },
+        {
+          "type": "activity_sheet",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/friends/activity-sheet.pdf"
+        },
+        {
+          "type": "coloring_pages",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/friends/coloring-pages.pdf"
+        }
+      ],
+      "activity_prompt": "Draw your friend and you doing something fun together!",
+      "discussion_prompts": [
+        "What makes someone a good friend?",
+        "What can you do when you and a friend want different games?",
+        "How can you help a friend who is sad?"
+      ],
+      "lesson": null,
+      "quiz_url": "https://softskillskids.github.io/songs/friends/#quiz",
+      "certificate": {
+        "url": "https://softskillskids.github.io/songs/friends/#quiz",
+        "creation": "local_browser",
+        "is_qualification": false
+      }
+    },
+    {
+      "id": "use-your-words",
+      "language": "en",
+      "title": "Use Your Words",
+      "skill": "Communication",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "description": "A communication song for kids! 💬 Sing along with Max, Mia, Jay, Lily, Rosie and Buddy the puppy as they learn to use their words — to say how they feel, ask for what they need, and listen too! \"Use Your Words\" is a sing-along communication song for kids. When Jay takes Mia's blue block, she stops, breathes and says it calmly instead of shouting. When Rosie feels shy about joining a game, she simply asks \"Can I play?\" — and when she doesn't understand the rules, she asks a question. With big karaoke lyrics on screen, it's perfect for preschool, kindergarten and early elementary kids (ages 3–8), at home or in the classroom.",
+      "published_at": "2026-10-20T14:00:24+00:00",
+      "page_url": "https://softskillskids.github.io/songs/use-your-words/",
+      "video_url": "https://www.youtube.com/watch?v=llDgt3Uu_i0",
+      "thumbnail_url": "https://softskillskids.github.io/songs/use-your-words/video.jpg",
+      "downloads": [
+        {
+          "type": "lyrics",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/use-your-words/lyrics.pdf"
+        },
+        {
+          "type": "activity_sheet",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/use-your-words/activity-sheet.pdf"
+        },
+        {
+          "type": "coloring_pages",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/use-your-words/coloring-pages.pdf"
+        }
+      ],
+      "activity_prompt": "Draw a time you used your words to say how you feel or what you need.",
+      "discussion_prompts": [
+        "What can you say when someone takes your toy?",
+        "How can you ask to join a game?",
+        "What do you do when someone else is talking?"
+      ],
+      "lesson": null,
+      "quiz_url": "https://softskillskids.github.io/songs/use-your-words/#quiz",
+      "certificate": {
+        "url": "https://softskillskids.github.io/songs/use-your-words/#quiz",
+        "creation": "local_browser",
+        "is_qualification": false
+      }
+    },
+    {
+      "id": "stop",
+      "language": "en",
+      "title": "Stop",
+      "skill": "Calming down",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "description": "A calm-down song for kids! 💚 Sing along with Max, Mia, Jay, Lily, Rosie and Buddy the puppy as Max learns what to do when he feels angry: STOP, BREATHE, THINK — then CHOOSE! \"Stop\" is a sing-along anger management song for kids. When someone bumps Max's tall tower and when Jay has the red crayon he wants, Max feels big angry feelings — but he learns to stop, take a slow breath, name his feeling and use his words instead of his hands. With big karaoke lyrics on screen, it's perfect for preschool, kindergarten and early elementary kids (ages 3–8), at home or in the classroom.",
+      "published_at": "2026-10-17T14:00:18+00:00",
+      "page_url": "https://softskillskids.github.io/songs/stop/",
+      "video_url": "https://www.youtube.com/watch?v=pdCpZ7C7zxM",
+      "thumbnail_url": "https://softskillskids.github.io/songs/stop/video.jpg",
+      "downloads": [
+        {
+          "type": "lyrics",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/stop/lyrics.pdf"
+        },
+        {
+          "type": "activity_sheet",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/stop/activity-sheet.pdf"
+        },
+        {
+          "type": "coloring_pages",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/stop/coloring-pages.pdf"
+        }
+      ],
+      "activity_prompt": "Draw what helps you calm down: a big breath, a hug, a quiet corner…",
+      "discussion_prompts": [
+        "What does your body feel like when you're angry?",
+        "What helps you calm down?",
+        "What could you say instead of grabbing or shouting?"
+      ],
+      "lesson": null,
+      "quiz_url": "https://softskillskids.github.io/songs/stop/#quiz",
+      "certificate": {
+        "url": "https://softskillskids.github.io/songs/stop/#quiz",
+        "creation": "local_browser",
+        "is_qualification": false
+      }
+    },
     {
       "id": "i-believe-in-me",
       "language": "en",
