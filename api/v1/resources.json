@@ -3,8 +3,8 @@
   "publisher": "Soft Skills Kids",
   "site_url": "https://softskillskids.github.io",
   "language": "en",
-  "count": 17,
-  "updated_at": "2026-11-07T15:00:19+00:00",
+  "count": 18,
+  "updated_at": "2026-11-10T15:00:35+00:00",
   "usage": {
     "cost": "free",
     "stated_scope": "home_and_classroom_use",
@@ -20,6 +20,50 @@
     "accepts_child_personal_data": false
   },
   "resources": [
+    {
+      "id": "do-my-part",
+      "language": "en",
+      "title": "I Can Do My Part",
+      "skill": "Responsibility",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "description": "A song about responsibility! ⭐ Sing along with Max, Mia, Jay, Lily, Rosie and Buddy the puppy as they tidy up their toys, pack their bags, help clean the classroom — and make things right when a little mistake happens. \"I Can Do My Part!\" is a sing-along song for kids about responsibility. Max puts his toys back before going outside, Mia checks her school bag, the whole class cleans up the paint together, and when Jay spills water he wipes it up himself. With karaoke lyrics on screen, it's perfect for preschool, kindergarten and early elementary kids (ages 3–8), at home or in the classroom.",
+      "published_at": "2026-11-10T15:00:35+00:00",
+      "page_url": "https://softskillskids.github.io/songs/do-my-part/",
+      "video_url": "https://www.youtube.com/watch?v=SCXtrpiRRnc",
+      "thumbnail_url": "https://softskillskids.github.io/songs/do-my-part/video.jpg",
+      "downloads": [
+        {
+          "type": "lyrics",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/do-my-part/lyrics.pdf"
+        },
+        {
+          "type": "activity_sheet",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/do-my-part/activity-sheet.pdf"
+        },
+        {
+          "type": "coloring_pages",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/do-my-part/coloring-pages.pdf"
+        }
+      ],
+      "activity_prompt": "Draw a little job you do at home — like tidying your toys or feeding a pet!",
+      "discussion_prompts": [
+        "What is one little job you can do at home every day?",
+        "What did Jay do after the water spilled?"
+      ],
+      "lesson": null,
+      "quiz_url": "https://softskillskids.github.io/songs/do-my-part/#quiz",
+      "certificate": {
+        "url": "https://softskillskids.github.io/songs/do-my-part/#quiz",
+        "creation": "local_browser",
+        "is_qualification": false
+      }
+    },
     {
       "id": "talk-it-out",
       "language": "en",
