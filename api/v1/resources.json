@@ -3,8 +3,8 @@
   "publisher": "Soft Skills Kids",
   "site_url": "https://softskillskids.github.io",
   "language": "en",
-  "count": 18,
-  "updated_at": "2026-11-10T15:00:35+00:00",
+  "count": 19,
+  "updated_at": "2026-11-13T15:00:05+00:00",
   "usage": {
     "cost": "free",
     "stated_scope": "home_and_classroom_use",
@@ -20,6 +20,51 @@
     "accepts_child_personal_data": false
   },
   "resources": [
+    {
+      "id": "plans-can-change",
+      "language": "en",
+      "title": "Plans Can Change",
+      "skill": "Flexibility",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "description": "A song about flexible thinking! 🌈 Sing along with Max, Mia, Jay, Lily, Rosie and Buddy the puppy as rain spoils park day, the purple paint runs out and the toy track breaks — and every time they take a breath, look around and find another way. \"Plans Can Change!\" is a sing-along song for kids about flexibility and handling disappointment. When it rains, the kids build a blanket fort instead; when there's no purple, Rosie and Lily mix red and blue; when the track cracks, Jay and Max build a bridge. With karaoke lyrics on screen, it's perfect for preschool, kindergarten and early elementary kids (ages 3–8), at home or in the classroom.",
+      "published_at": "2026-11-13T15:00:05+00:00",
+      "page_url": "https://softskillskids.github.io/songs/plans-can-change/",
+      "video_url": "https://www.youtube.com/watch?v=x8M0bZx7pew",
+      "thumbnail_url": "https://softskillskids.github.io/songs/plans-can-change/video.jpg",
+      "downloads": [
+        {
+          "type": "lyrics",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/plans-can-change/lyrics.pdf"
+        },
+        {
+          "type": "activity_sheet",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/plans-can-change/activity-sheet.pdf"
+        },
+        {
+          "type": "coloring_pages",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/plans-can-change/coloring-pages.pdf"
+        }
+      ],
+      "activity_prompt": "Draw a time your plan changed — and the new plan you found!",
+      "discussion_prompts": [
+        "What did you notice in the song?",
+        "How did the friends feel?",
+        "Where could we practise this skill at home?"
+      ],
+      "lesson": null,
+      "quiz_url": "https://softskillskids.github.io/songs/plans-can-change/#quiz",
+      "certificate": {
+        "url": "https://softskillskids.github.io/songs/plans-can-change/#quiz",
+        "creation": "local_browser",
+        "is_qualification": false
+      }
+    },
     {
       "id": "do-my-part",
       "language": "en",
