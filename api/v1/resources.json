@@ -3,8 +3,8 @@
   "publisher": "Soft Skills Kids",
   "site_url": "https://softskillskids.github.io",
   "language": "en",
-  "count": 19,
-  "updated_at": "2026-11-13T15:00:05+00:00",
+  "count": 20,
+  "updated_at": "2026-11-16T15:00:31+00:00",
   "usage": {
     "cost": "free",
     "stated_scope": "home_and_classroom_use",
@@ -20,6 +20,52 @@
     "accepts_child_personal_data": false
   },
   "resources": [
+    {
+      "id": "think-think-think",
+      "language": "en",
+      "title": "Think, Think, Think",
+      "skill": "Critical thinking",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "description": "Think, think, think! 🔍 Sing along with Max, Mia, Jay, Lily, Rosie and Buddy as they learn to look closely, ask questions, compare ideas and check the evidence before deciding. Max compares three boxes to find the right fit. Rosie tests whether plants need light. Jay investigates muddy footprints instead of blaming Buddy too quickly. Each story shows children that good thinking is not about knowing every answer — it is about asking, checking and being willing to change your mind when you learn something new. Perfect for preschool, kindergarten and early elementary children ages 3–8, at home or in the classroom. Karaoke lyrics are shown on screen.",
+      "published_at": "2026-11-16T15:00:31+00:00",
+      "page_url": "https://softskillskids.github.io/songs/think-think-think/",
+      "video_url": "https://www.youtube.com/watch?v=6t73I0SB320",
+      "thumbnail_url": "https://softskillskids.github.io/songs/think-think-think/video.jpg",
+      "downloads": [
+        {
+          "type": "lyrics",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/think-think-think/lyrics.pdf"
+        },
+        {
+          "type": "activity_sheet",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/think-think-think/activity-sheet.pdf"
+        },
+        {
+          "type": "coloring_pages",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/think-think-think/coloring-pages.pdf"
+        }
+      ],
+      "activity_prompt": "Draw a mystery, then add three clues that could help you solve it!",
+      "discussion_prompts": [
+        "How did Max choose the right box?",
+        "What did Rosie do instead of simply guessing?",
+        "Why were the muddy prints not Buddy's?",
+        "When did you learn something that changed your mind?"
+      ],
+      "lesson": null,
+      "quiz_url": "https://softskillskids.github.io/songs/think-think-think/#quiz",
+      "certificate": {
+        "url": "https://softskillskids.github.io/songs/think-think-think/#quiz",
+        "creation": "local_browser",
+        "is_qualification": false
+      }
+    },
     {
       "id": "plans-can-change",
       "language": "en",
