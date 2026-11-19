@@ -3,8 +3,8 @@
   "publisher": "Soft Skills Kids",
   "site_url": "https://softskillskids.github.io",
   "language": "en",
-  "count": 20,
-  "updated_at": "2026-11-16T15:00:31+00:00",
+  "count": 21,
+  "updated_at": "2026-11-19T15:00:02+00:00",
   "usage": {
     "cost": "free",
     "stated_scope": "home_and_classroom_use",
@@ -20,6 +20,50 @@
     "accepts_child_personal_data": false
   },
   "resources": [
+    {
+      "id": "imagine-what-we-can-make",
+      "language": "en",
+      "title": "Imagine What We Can Make",
+      "skill": "Creativity",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "description": "An ordinary cardboard box can become a rocket, a castle or a robot! 🚀 Sing along with Max, Mia, Jay, Lily, Rosie and Buddy as they imagine, combine ideas and try something new. For children ages 3–8, at home or in the classroom. Karaoke lyrics on screen.",
+      "published_at": "2026-11-19T15:00:02+00:00",
+      "page_url": "https://softskillskids.github.io/songs/imagine-what-we-can-make/",
+      "video_url": "https://www.youtube.com/watch?v=H4bwIH1bmoc",
+      "thumbnail_url": "https://softskillskids.github.io/songs/imagine-what-we-can-make/video.jpg",
+      "downloads": [
+        {
+          "type": "lyrics",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/imagine-what-we-can-make/lyrics.pdf"
+        },
+        {
+          "type": "activity_sheet",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/imagine-what-we-can-make/activity-sheet.pdf"
+        },
+        {
+          "type": "coloring_pages",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/imagine-what-we-can-make/coloring-pages.pdf"
+        }
+      ],
+      "activity_prompt": "Draw three different things you could make with one cardboard box!",
+      "discussion_prompts": [
+        "What could we make with a box and a cardboard tube?",
+        "Can we combine two different ideas?"
+      ],
+      "lesson": null,
+      "quiz_url": "https://softskillskids.github.io/songs/imagine-what-we-can-make/#quiz",
+      "certificate": {
+        "url": "https://softskillskids.github.io/songs/imagine-what-we-can-make/#quiz",
+        "creation": "local_browser",
+        "is_qualification": false
+      }
+    },
     {
       "id": "think-think-think",
       "language": "en",
