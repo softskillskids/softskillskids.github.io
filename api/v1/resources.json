@@ -3,8 +3,8 @@
   "publisher": "Soft Skills Kids",
   "site_url": "https://softskillskids.github.io",
   "language": "en",
-  "count": 21,
-  "updated_at": "2026-11-19T15:00:02+00:00",
+  "count": 22,
+  "updated_at": "2026-11-22T15:00:05+00:00",
   "usage": {
     "cost": "free",
     "stated_scope": "home_and_classroom_use",
@@ -20,6 +20,51 @@
     "accepts_child_personal_data": false
   },
   "resources": [
+    {
+      "id": "sharing-makes-us-happy",
+      "language": "en",
+      "title": "Sharing Makes Us Happy",
+      "skill": "Sharing & Kind Boundaries",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "description": "A song about sharing, taking turns and respecting a friend who is still using a toy. Free activities, colouring pages, quiz and certificate will appear with the video release.",
+      "published_at": "2026-11-22T15:00:05+00:00",
+      "page_url": "https://softskillskids.github.io/songs/sharing-makes-us-happy/",
+      "video_url": "https://www.youtube.com/watch?v=XNJA5ysmTiM",
+      "thumbnail_url": "https://softskillskids.github.io/songs/sharing-makes-us-happy/video.jpg",
+      "downloads": [
+        {
+          "type": "lyrics",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/sharing-makes-us-happy/lyrics.pdf"
+        },
+        {
+          "type": "activity_sheet",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/sharing-makes-us-happy/activity-sheet.pdf"
+        },
+        {
+          "type": "coloring_pages",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/sharing-makes-us-happy/coloring-pages.pdf"
+        }
+      ],
+      "activity_prompt": "Draw two friends finding a kind way to share or take turns.",
+      "discussion_prompts": [
+        "What can you offer a friend?",
+        "What can you say if you are still using a toy?",
+        "How can five friends enjoy one book?"
+      ],
+      "lesson": null,
+      "quiz_url": "https://softskillskids.github.io/songs/sharing-makes-us-happy/#quiz",
+      "certificate": {
+        "url": "https://softskillskids.github.io/songs/sharing-makes-us-happy/#quiz",
+        "creation": "local_browser",
+        "is_qualification": false
+      }
+    },
     {
       "id": "imagine-what-we-can-make",
       "language": "en",
