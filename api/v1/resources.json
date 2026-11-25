@@ -3,8 +3,8 @@
   "publisher": "Soft Skills Kids",
   "site_url": "https://softskillskids.github.io",
   "language": "en",
-  "count": 22,
-  "updated_at": "2026-11-22T15:00:05+00:00",
+  "count": 23,
+  "updated_at": "2026-11-25T15:00:28+00:00",
   "usage": {
     "cost": "free",
     "stated_scope": "home_and_classroom_use",
@@ -20,6 +20,51 @@
     "accepts_child_personal_data": false
   },
   "resources": [
+    {
+      "id": "your-turn-my-turn",
+      "language": "en",
+      "title": "Your Turn, My Turn",
+      "skill": "Taking Turns & Patience",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "description": "A song about taking turns, waiting calmly and finding fair ways to choose, for children and their grown-ups. Free activities, colouring pages, quiz and participation certificate will be available with the video release. ✅ Wait, watch and cheer\n✅ Ask kindly for a turn\n✅ Let each friend choose • What can you do while you wait?\n• What can you say to ask for a turn?\n• How can both friends choose a game? 🎤\n[Chorus Hook - Start]\nYour turn!\nMy turn!\nWe can both have fun! You go first,\nthen here I come! Wait a little,\nshare the play... Everybody gets a turn today! [Intro]\nYour turn...\nMy turn... Sometimes I go first.\nSometimes you do. And that's okay! [Verse 1]\nMax ran over to the slide,\nBut Jay was waiting there beside. \"I want to go!\"\nMax almost said... Then stopped\nand looked ahead. Jay climbed up,\nthen slid down fast. \"Wheee!\" Max smiled as Jay went past. Then Jay called: \"Now it's you!\" Max climbed up\nand shouted: \"WOO-HOO!\" [Pre-Chorus]\nI can wait.\nI know my turn will come. While I wait,\nI can still have fun. You go first,\nthen I go too... There's enough turns\nfor me and you! [Chorus]\nYour turn!\nMy turn!\nWe can both have fun! You go first,\nthen here I come! Wait a little,\nshare the play... Everybody gets a turn today! Your turn!\nMy turn!\nRound we go! I can wait\nbecause I know... When your turn\nis finally done... Soon it will be\nMY TURN! [Verse 2]\nRosie had a little drum,\nTap-tap-tapping,\nhaving fun. Lily came and asked: \"Can I play?\" Rosie said: \"Yes!\nAfter my turn, okay?\" Tap-tap-tap,\nthen Rosie stopped. \"Now it's yours!\" The drum was passed. Lily played\na funny beat... And everyone clapped\nto the rhythm with their feet! [Pre-Chorus]\nI can wait.\nI know my turn will come. While I wait,\nI can still have fun. You go first,\nthen I go too... There's enough turns\nfor me and you! [Chorus]\nYour turn!\nMy turn!\nWe can both have fun! You go first,\nthen here I come! Wait a little,\nshare the play... Everybody gets a turn today! Your turn!\nMy turn!\nRound we go! I can wait\nbecause I know... When your turn\nis finally done... Soon it will be\nMY TURN! [Verse 3]\nMia and Jay had one small game. Both wanted\nto choose the same. \"I want to start!\" \"So do I!\" For just a moment,\nboth asked why. Mia said: \"Let's take turns to choose. You pick first,\nthen I will choose.\" Jay picked a puzzle,\nMia picked a race... Two different choices,\nboth had a place! [Bridge - Call and Response]\nSomeone's using it? I CAN WAIT! Whose turn now? YOUR TURN! And after that? MY TURN! Do I need to grab? NO! Do I need to shout? NO! Can I ask when my turn comes? YES! Can we both have fun? YES, WE CAN! What do we do? TAKE TURNS! [Break]\nWaiting for a turn\ndoesn't mean\nI'm missing out. I can watch. I can cheer. I can choose\nwhat I'll do next. And when your turn is over... mine is getting closer! [Final Chorus]\nYour turn!\nMy turn!\nWe can both have fun! You go first,\nthen here I come! Slide or drum,\ngame or toy... Taking turns\nmeans everyone enjoys! Wait!\nWatch!\nCheer!\nThen go! I can take turns\nbecause I know... Sometimes you,\nsometimes me... That's how fair\nour play can be! Your turn!\nMy turn! Round and round... Everybody gets a turn\nwhen we share the fun around! [Outro]\nYour turn... My turn... You go... Then I go... And we both\nget to have fun! Creative production is AI-assisted.",
+      "published_at": "2026-11-25T15:00:28+00:00",
+      "page_url": "https://softskillskids.github.io/songs/your-turn-my-turn/",
+      "video_url": "https://www.youtube.com/watch?v=dHbLiaDw_LE",
+      "thumbnail_url": "https://softskillskids.github.io/songs/your-turn-my-turn/video.jpg",
+      "downloads": [
+        {
+          "type": "lyrics",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/your-turn-my-turn/lyrics.pdf"
+        },
+        {
+          "type": "activity_sheet",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/your-turn-my-turn/activity-sheet.pdf"
+        },
+        {
+          "type": "coloring_pages",
+          "format": "application/pdf",
+          "url": "https://softskillskids.github.io/songs/your-turn-my-turn/coloring-pages.pdf"
+        }
+      ],
+      "activity_prompt": "Draw a friend playing and another friend waiting. Add a friendly way to ask for the next turn. Practise saying: Your turn, then my turn.",
+      "discussion_prompts": [
+        "What can you do while you wait?",
+        "What can you say to ask for a turn?",
+        "How can both friends choose a game?"
+      ],
+      "lesson": null,
+      "quiz_url": "https://softskillskids.github.io/songs/your-turn-my-turn/#quiz",
+      "certificate": {
+        "url": "https://softskillskids.github.io/songs/your-turn-my-turn/#quiz",
+        "creation": "local_browser",
+        "is_qualification": false
+      }
+    },
     {
       "id": "sharing-makes-us-happy",
       "language": "en",
